@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
 <head>
   <meta charset="utf-8">
   <title>Stalk The Stock</title>
@@ -27,4 +26,4 @@
 	<h1>Welcome to Stalk The Stock</h1>
 </body>
   
-</html>
+?>
